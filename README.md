@@ -1,6 +1,4 @@
-# Pandas-Challenge
 # Pandas, Pandas, Pandas
-
 
 ## Heroes of Pymoli - Background
 
